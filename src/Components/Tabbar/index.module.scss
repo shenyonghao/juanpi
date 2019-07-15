@@ -1,0 +1,41 @@
+
+.myactive{
+    color:red;
+}
+// .nomyactive{
+//     color:#bbb;
+// }
+
+.QllnW{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1rem;
+    background-color:#fff;
+    border-top: 1px solid #ebebeb;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 100;
+    // color:#bbb;
+    .jAaTju{
+        display:flex;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        .jDwBTQ{ 
+            flex:1;
+            font-size:10px;
+            text-align: center;
+            .gPEVay{
+                font-size:20px;
+                display: block;
+                margin: 0 auto;
+                margin : 0.07rem 0.6975rem;
+                // color:#bbb;
+            }
+        }
+    }
+}
+
+

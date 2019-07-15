@@ -1,0 +1,141 @@
+
+.header{
+    width:100%;
+    height:2.88rem;
+    background:#fe4c41;
+    .geren{
+        height:0.88rem;
+        width:100%;
+        line-height:0.88rem;
+        text-align:center;
+        color:#fff;
+        font-size:18px;
+        position:relative;
+        .fangxiang{
+            position:absolute;
+            left:0.3rem;
+            display:inline-block;
+            width:0.4rem;
+            height:0.4rem;
+            font-size:20px;
+            color:#fff;
+        }
+    }
+    .dibu{
+        height:2rem;
+        .zhuce{
+            height:2rem;
+            line-height:2rem;
+            font-size:20px;
+            color:white;
+            padding:0 0.96rem;
+            margin-left:0.96rem;
+        }
+        .gun{
+            display:inline-block;
+            height:0.3rem;
+            width:0.03rem;
+            background:#fff;
+        }
+        .denglu{
+            height:2rem;
+            line-height:2rem;
+            font-size:20px;
+            color:white; 
+            padding:0 0.96rem;
+        }
+    }
+}
+.dingdany{
+    height:0.96rem;
+    background:#fff;
+    position:relative;
+    padding-left:0.28rem;
+    .mydan{
+       line-height:0.96rem;
+       height:0.96rem;
+       display:inline-block;
+       font-size:15px;
+       color:#333;
+    }
+    .quanbudan{
+        line-height:0.96rem;
+        height:0.96rem;
+        display:inline-block;
+        font-size:14px;
+        color:#999;
+        position:absolute;
+        right:0.3rem;;
+    }
+}
+.QllnW{
+    width: 100%;
+    height: 1.5rem;
+    background-color:#fff;
+    border-top: 1px solid #ebebeb;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 100;
+    padding-top:0.36rem;
+    // margin:0.36rem 0 0.28rem 0;
+    // color:#bbb;
+    .jAaTju{
+        
+        display:flex;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        .jDwBTQ{ 
+            flex:1;
+            font-size:10px;
+            text-align: center;
+            .gPEVay{
+                font-size:20px;
+                display: block;
+                margin: 0 auto;
+                margin : 0.07rem 0.6975rem;
+                // color:#bbb;
+            }
+        }
+    }
+}
+.main{
+    margin-top:0.2rem;
+    margin-bottom:0.2rem;
+    height:4.8rem;
+    .liebiao{
+        background:#fff;
+        line-height:0.96rem;
+        height:0.96rem;
+        font-size:15px;
+        padding:0 0.28rem 0 0.36rem;
+    }
+}
+.section{
+    margin-top:0.2rem;
+    margin-bottom:0.2rem;
+    height:1.9rem;
+    .kefu{
+        background:#fff;
+        line-height:0.96rem;
+        height:0.96rem;
+        font-size:15px;
+        padding:0 0.28rem 0 0.36rem;
+    }
+}
+.footer{
+    width:100%;
+    height:0.82rem;
+    display:flex;
+    margin-bottom:1rem;
+    .hehel{
+        display:inline-block;
+        background:#fff;
+        line-height:0.82rem;
+        height:0.82rem;
+        font-size:10px;
+        padding:0 0.28rem 0 0.36rem;
+        flex:1;
+        text-align:center;
+    }
+}

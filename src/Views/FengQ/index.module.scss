@@ -1,0 +1,108 @@
+*{
+    font-size:14px;
+}
+.fengqiang{
+    background:#fff;
+    width:7.5rem;
+    height:0.88rem;
+    text-align:center;
+    line-height:0.88rem;
+    font-size:18px;
+    position:relative;
+    .fangxiang{
+        position:absolute;
+        left:0.3rem;
+        display:inline-block;
+        width:0.4rem;
+        height:0.4rem;
+        font-size:20px;
+        color:#333;
+    }
+}
+.box{
+    background:#f4f4f8;
+    .boxli{
+        background:#fff;
+        float:left;
+        margin-right:0.02rem;
+        margin-top:0.02rem;
+        .maintu{
+            width:3.73rem;
+            height:3.73rem;
+            display:block;
+        }
+        .zhongj{
+            width:3.41rem;
+            height:0.44rem;
+            margin:0.12rem 0rem 0rem;
+            padding:0rem 0.16rem;;
+            position:relative;
+            .zhongzi{
+                font-size:15px;
+                color:#FF464E;
+            }
+            .zhongtuy{
+                position:absolute;
+                width:1rem;
+                height:0.5rem;
+                display:block;
+                right:.15rem;
+                top:-0.35rem;
+                z-index:99;
+                background:#fff;
+
+            }
+        }
+        .maindown{
+            margin:0rem 0rem 0.2rem;
+            padding:0rem 0.5rem 0rem 0.16rem;
+            position:relative;
+            .maindole{
+                display:inline-block;
+                width:2.41rem;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                font-size:12px;
+                color: #3b3b3b;
+            }
+            .maindori{
+                font-size:10px;
+                color: #BBB;
+                position:absolute;
+                right:0.1rem;
+            }
+        }
+    }
+
+}
+.leftche{
+    width:0.46rem;
+    height:0.46rem;
+    background: rgba(0,0,0,.7);
+    position:fixed;
+    bottom:0.25rem;
+    left:0.25rem;
+    border-radius:0.06rem;
+    padding:0.19rem;
+    .che{
+      width:0.46rem;
+      height:0.46rem;
+      display:block;
+    }
+}
+.rightjian{
+    width:0.56rem;
+    height:0.56rem;
+    background:#fff;
+    position:fixed;
+    bottom:0.25rem;
+    right:0.25rem;
+    border-radius:0.48rem;
+    padding:0.2rem;
+    .jian{
+        width:0.56rem;
+        height:0.56rem;
+        display:block;
+    }
+}

@@ -1,0 +1,53 @@
+*{
+    font-size:14px;
+
+}
+.box{
+    background:#f4f4f8;
+    padding-top:1.68rem;
+    .boxli{
+        background:#fff;
+        float:left;
+        margin-right:0.02rem;
+        margin-top:0.02rem;
+        border-bottom:1px solid #f4f4f8;
+        .maintu{
+            width:3.73rem;
+            height:3.73rem;
+            display:block;
+        }
+        .zhongj{
+            width:3.73rem;
+            height:0.44rem;
+            .yuanjia{
+                color:#ff4951;
+                padding-left:0.12rem;
+                font-size:15px;
+            }
+            .jianjia{
+                color:#bdbdbd;
+                padding-left:0.06rem;
+                font-size:11px;
+                text-decoration:line-through;
+            }
+
+        }
+        .maindown{
+            width:3.73rem;
+            height:0.55rem;
+            
+        .mainzi{
+            display:inline-block;
+            width:3rem;
+            padding-left:0.12rem;
+            margin-bottom:0.24rem;
+            font-size:14px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+            
+        }
+    }
+
+}
